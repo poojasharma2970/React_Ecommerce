@@ -1,0 +1,11 @@
+form i {
+  font-size: 22px;
+  position: absolute;
+  margin-top: 8px;
+}
+
+.login-img img {
+  height: 70%;
+  width: 70%;
+  transform: scaleX(-1);
+}

@@ -1,0 +1,10 @@
+form i {
+  font-size: 22px;
+  position: absolute;
+  margin-top: 8px;
+}
+
+.signup-img img {
+  height: 70%;
+  width: 70%;
+}

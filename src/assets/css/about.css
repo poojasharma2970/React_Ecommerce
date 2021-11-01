@@ -1,0 +1,29 @@
+.bg-img0 {
+    background: url('https://firebasestorage.googleapis.com/v0/b/ecommerce-web-710e1.appspot.com/o/error-auth-images%2Fabout-banner.jpg?alt=media&token=26918e57-778f-4b31-b9c4-526a3604253d');
+}
+
+.bg-img0 h2 {
+    color: #fff!important;
+}
+
+.hov-img0 {
+    display: block;
+    overflow: hidden;
+}
+
+.hov-img0 img{
+    width: 90%;
+    height: 90%;
+    -webkit-transition: transform 0.9s ease;
+    -o-transition: transform 0.9s ease;
+    -moz-transition: transform 0.9s ease;
+    transition: transform 0.9s ease;
+}
+
+.hov-img0:hover img {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+}

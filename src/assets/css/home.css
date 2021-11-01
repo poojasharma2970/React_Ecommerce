@@ -1,0 +1,44 @@
+.slider img {
+  cursor: pointer;
+}
+
+.block2-pic {
+  height: 20%;
+  width: 20%;
+}
+
+.shop-method-area .method-wrapper{
+  background:#3FBDF1;
+}
+
+.shop-method-area .method-wrapper .single-method{
+  padding:43px 20px 0 45px;
+}
+
+.shop-method-area .method-wrapper .single-method i{
+  font-size:50px;
+  color:#ffff;
+  margin-bottom:10px;
+	text-align: center;
+  display:block;
+}
+
+.shop-method-area .method-wrapper .single-method i:first-child {
+	transform: scaleX(-1);
+}
+
+.shop-method-area .method-wrapper .single-method h6{
+  color:#fff;
+  font-size:20px;
+  font-weight:700;
+  line-height:1.2;
+  margin-bottom:12px;
+	text-align: center;
+}
+
+
+@media only screen and (min-width: 1200px) {
+	.slider img {
+		max-height: 89vh;
+	}
+}
